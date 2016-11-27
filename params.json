@@ -1,0 +1,6 @@
+{
+  "name": "Mapdemo",
+  "tagline": "A freelance project",
+  "body": "### Welcome\r\n####This is a sample demonstration of my skills using google maps API. \r\n\r\n### Libraries applied \r\n[Google places library](https://developers.google.com/places/javascript/) \r\n\r\n[Google Javascript API](https://developers.google.com/maps/documentation/javascript/)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
